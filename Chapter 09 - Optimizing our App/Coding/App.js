@@ -13,6 +13,10 @@ import Login from "./Components/Login";
 import RestaurantMenu from "./Components/RestaurantMenu";
 import Profile from "./Components/ProfileClass";
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom"; // for routing our page import createBrowserRouter and RouterProvider for providing router & Outlet for children component for nested routing
+import  TodoItem  from "simpleheader";
+import WebComp from "./Components/WebComp";
+import { mathlive } from "mathlive/dist/mathlive";
+// import {defineCustomElements} from "@vanillawc/wc-datepicker/dist/wc-datepicker-node";
 
 /* My Food App structure will look like this, 
             1) Header
@@ -66,6 +70,10 @@ const appRouter = createBrowserRouter([
       {
         path: "contact",
         element: <Contact />,
+      },
+      {
+        path: "webcomp",
+        element: <WebComp />,
       },
       {
         path: "restaurant/:resId",

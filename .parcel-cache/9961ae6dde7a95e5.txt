@@ -1,0 +1,60 @@
+59
+81C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\README.md133355304260978358 0
+104C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\dist\Food Fire Logo.e3ef27bc.png133360461459373840 0
+91C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\.all-contributorsrc133355304259052908 0
+78C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\public133355315674974161 1
+117C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Assignment.md133355304260579435 0
+89C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\public\index.html133360459913054671 0
+131C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Components\Header.js133360287311768600 0
+130C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Components\About.js133355304260609297 0
+103C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App133355314836777131 1
+84C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\package.json133360331079792593 0
+97C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\dist\offline.78f5750d.png133360461462764929 0
+89C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\package-lock.json133360331080282907 0
+94C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\dist\index.94e4bb47.js133360461464281182 0
+76C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\dist133360461465113332 1
+99C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\dist\404 Error.6689220c.jpg133360461462764929 0
+102C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\dist\burger-image.fba14f35.png133360461459373840 0
+100C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\dist\Contact-Us.fbf184f9.png133360461459293648 0
+132C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Components\WebComp.js133360342800893840 0
+96C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\dist\core-js.1fed68e9.js133356202024438594 0
+100C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\dist\core-js.1fed68e9.js.map133356202024542516 0
+98C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\dist\index.94e4bb47.js.map133360461465113332 0
+92C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\dist\dom.94dc06b3.js133356202028159173 0
+139C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Components\RestaurantCard.js133355304260734663 0
+96C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\dist\dom.94dc06b3.js.map133356202028229160 0
+120C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\index.css133355304260958351 0
+103C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\dist\favicon-16x16.565a8e6c.png133360461462764929 0
+141C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Components\ProfileUserClass.js133355304260724729 0
+95C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\dist\index.d7965b3d.css133360461459099708 0
+99C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\dist\index.d7965b3d.css.map133360461459373840 0
+129C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Components\Body.js133355304260626937 0
+87C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\dist\index.html133360461459099708 0
+110C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding133355314839187021 1
+131C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Components\Footer.js133360282477566429 0
+136C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Images\Food Fire Logo.png133355304260870875 0
+116C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Hooks133355314838542095 1
+117C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\App.js133360334376751757 0
+121C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Components133360277242308613 1
+123C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\constants.js133355304260948262 0
+117C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Images133355314839115375 1
+120C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\README.md133355304260915653 0
+116C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Utils133355314839272747 1
+135C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Images\favicon-16x16.png133355304260901129 0
+126C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Utils\Helper.js133355304260926036 0
+139C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Components\RestaurantMenu.js133355304260744744 0
+131C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Images\404 Error.jpg133355304260842272 0
+134C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Images\burger-image.png133355304260890933 0
+132C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Components\Shimmer.js133355304260754655 0
+130C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Hooks\useResData.js133355304260812274 0
+132C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Images\Contact-Us.png133355304260852277 0
+129C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Images\offline.png133355304260904342 0
+143C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Components\SocialProfileClass.js133355304260772150 0
+129C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Hooks\useOnline.js133355304260802276 0
+132C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Components\Contact.js133355304260637663 0
+134C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Hooks\useResMenuData.js133355304260822276 0
+130C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Components\Error.js133355304260647651 0
+130C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Components\Login.js133356102558432987 0
+137C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Components\ProfileClass.js133355304260692889 0
+141C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Components\ProfileRepoClass.js133355304260709641 0
+136C:\Users\lnarapureddy\Downloads\Namaste-React-main - Copy\Namaste-React\Chapter 09 - Optimizing our App\Coding\Components\UserOffline.js133355304260792305 0

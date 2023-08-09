@@ -10,14 +10,20 @@ const Footer = () => {
         target="_blank"
         title="Chetan Nada's Linkedin Profile"
       >
-        Chetan Nada
+        {/* Chetan Nada Sree
+         */}
+         Sree
       </a>
       <i className="fa-solid fa-copyright"></i>
         {year}
         <strong>
           Food<span>Fire</span>
         </strong>
+        <todo-item>Todo 12</todo-item>
+     
     </div>
+
+
   );
 };
 
