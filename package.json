@@ -22,16 +22,15 @@
     "process": "^0.11.10"
   },
   "dependencies": {
-    "@vanillawc/wc-datepicker": "^0.0.6",
     "codinglocker-stencil-demo-proj": "^1.1.0",
     "cors": "^2.8.5",
     "formik": "^2.2.9",
-    "mathlive": "^0.95.1",
+    "mathlive": "^0.95.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
     "react-router-dom": "^6.7.0",
-    "simpleheader": "^1.0.0",
+    "simpleheader1.0": "^1.0.0",
     "yup": "^0.32.11"
   },
   "browserslist": [

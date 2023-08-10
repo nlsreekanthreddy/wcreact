@@ -1,14 +1,12 @@
 import { useState } from "react";
 import { Link, Outlet } from "react-router-dom";
 import food from "../Images/burger-image.png";
-import { TodoItem } from "simpleheader";
+import { TodoItem } from "simpleheader1.0";
 
 const WebComp = () => {
   const [show, setShow] = useState(false);
   return (
     <div>
-      
-     
       <div className="about-container">
         <div className="about-left">
         <todo-item>Welcome to
